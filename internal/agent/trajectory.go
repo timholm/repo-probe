@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/factory/repo-probe/internal/llm"
+	"github.com/timholm/repo-probe/internal/llm"
 )
 
 // StepKind classifies a step in the ReAct trajectory.

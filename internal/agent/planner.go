@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/factory/repo-probe/internal/llm"
+	"github.com/timholm/repo-probe/internal/llm"
 )
 
 // Plan holds the decomposed subgoals for a query.

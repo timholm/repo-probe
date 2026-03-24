@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/factory/repo-probe/internal/config"
+	"github.com/timholm/repo-probe/internal/config"
 )
 
 // Message is a single turn in a conversation.

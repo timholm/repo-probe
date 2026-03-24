@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/factory/repo-probe/internal/llm"
+	"github.com/timholm/repo-probe/internal/llm"
 )
 
 // ToolResult holds the output of a tool execution.
